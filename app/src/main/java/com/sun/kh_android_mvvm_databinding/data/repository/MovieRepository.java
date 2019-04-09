@@ -65,6 +65,11 @@ public class MovieRepository implements MovieDataSource.Local, MovieDataSource.R
     }
 
     @Override
+    public Observable<MovieResponse> getMoviesTrendingByDay() {
+        return mRemote.getMoviesTrendingByDay();
+    }
+
+    @Override
     public Observable<Movie> getMovieDetail(int movieId, String value) {
         return mRemote.getMovieDetail(movieId, value);
     }
