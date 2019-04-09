@@ -1,4 +1,4 @@
-package com.sun.kh_android_mvvm_databinding.screen;
+package com.sun.kh_android_mvvm_databinding.screen.main;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
