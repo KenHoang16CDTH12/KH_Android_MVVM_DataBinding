@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">KH_Android_MVVM_DataBinding</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_home">Home</string>
+    <string name="text_genres">Genres</string>
+    <string name="text_view_all">View all</string>
+    <string name="text_msg">msg</string>
+    <string name="title_information">Information</string>
+    <string name="title_actor">Actor</string>
+    <string name="title_trailer">Trailer</string>
+    <string name="title_producer">Producer</string>
 </resources>
