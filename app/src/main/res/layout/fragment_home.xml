@@ -8,7 +8,7 @@
         <import type="android.view.View"/>
         <variable
             name="viewModel"
-            type=""
+            type="com.sun.kh_android_mvvm_databinding.screen.home.HomeViewModel"
             />
     </data>
 

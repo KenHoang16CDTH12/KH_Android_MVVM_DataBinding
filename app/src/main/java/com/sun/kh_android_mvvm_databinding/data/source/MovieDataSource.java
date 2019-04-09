@@ -26,6 +26,8 @@ public interface MovieDataSource {
 
         Observable<MovieResponse> getMoviesByCompany(String company, int page);
 
+        Observable<MovieResponse> getMoviesTrendingByDay();
+
         Observable<Movie> getMovieDetail(int movieId, String value);
 
         Observable<GenreResponse> getGenres();
