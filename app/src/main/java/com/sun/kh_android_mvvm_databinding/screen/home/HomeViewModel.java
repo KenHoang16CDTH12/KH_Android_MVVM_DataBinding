@@ -8,6 +8,7 @@ import android.databinding.ObservableField;
 import android.databinding.ObservableList;
 import android.view.View;
 import android.widget.AdapterView;
+import com.sun.kh_android_mvvm_databinding.BR;
 import com.sun.kh_android_mvvm_databinding.data.annotation.CategoryRequest;
 import com.sun.kh_android_mvvm_databinding.data.annotation.GenresKey;
 import com.sun.kh_android_mvvm_databinding.data.model.Genre;
